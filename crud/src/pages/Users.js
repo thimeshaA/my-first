@@ -52,7 +52,7 @@ export default function Users() {
           </tbody>
         </table>
       </div>
-      <h1>Thimesha</h1>
+      <h1>Thimesha Ansar</h1>
     </div>
   );
 }
