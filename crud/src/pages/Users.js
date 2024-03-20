@@ -22,6 +22,7 @@ export default function Users() {
   return (
     <div>
       <div>
+        <h1>Current Users</h1>
         <Link to="/create">add +</Link>
 
         <table>
