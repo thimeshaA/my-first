@@ -52,6 +52,7 @@ export default function Users() {
           </tbody>
         </table>
       </div>
+      <h1>Thimesha</h1>
     </div>
   );
 }
